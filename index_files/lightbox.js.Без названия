@@ -1,1 +1,0 @@
-(function(){var a=document,b=a.createElement('script');b.type='text/javascript';b.async=!0;b.src='//www.lightboxcdn.com/vendor/84b98bf7-1806-4df7-9d3d-01bc7c547a45/user'+(window.location.href.indexOf('boxqamode')>0?'_qa':'')+'.js?cb=637813768242506410';a=a.getElementsByTagName('script')[0];a.parentNode.insertBefore(b,a)})();
